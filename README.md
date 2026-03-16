@@ -15,7 +15,7 @@ pip install timm tensorboard numpy
 ```
 📂 Data Preparation
 ```bash
-## 📂 Data Preparation
+
 
 The dataset used in this project is publicly available. You can download the compressed dataset  from the following links:
 
@@ -24,7 +24,7 @@ The dataset used in this project is publicly available. You can download the com
 
 After downloading the dataset, extract it into the `ddos_datasets/flow_image/` directory. The folder structure should look exactly like this:
 
-```text
+
 
 ddos_datasets/dataset/
 ├── train/
